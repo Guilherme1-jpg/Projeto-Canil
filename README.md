@@ -1,5 +1,5 @@
 <p>
-    <img width="470" src="src/assets/2021-11-30-13-51-53.gif">
+    <img width="470" src="/src/assets/2021-11-30-13-51-53.gif">
 </p>
 
 # projeto de canil
